@@ -1,3 +1,3 @@
 # techsage-youtube
-TechSage Consultoria project codes as seen on it's Youtube Channel (in brazilian portuguese!)
+Códigos dos projetos apresentados no canal do Youtube da TechSage Consultoria!
 https://www.youtube.com/channel/UCo0ZQ3bAwKAtkQIJqonYLgw
